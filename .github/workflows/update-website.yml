@@ -1,4 +1,5 @@
 name: Node.js Build and Move
+permissions: read-all|write-all
 
 on:
   push:
