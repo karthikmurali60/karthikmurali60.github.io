@@ -26,10 +26,10 @@ jobs:
 
     - name: Move build contents to root directory
       run: |
-        rmdir -r docs
+        rm -rf docs
         mkdir docs
         cp -R build/* docs/
-        rm -R build/* 
+        rm -rf build/* 
 
     - name: Commit changes
       run: |
