@@ -25,7 +25,11 @@ jobs:
       run: npm run build
 
     - name: Move build contents to root directory
-      run: mv build/* .
+      run: |
+        rmdir -r docs
+        mkdir docs
+        cp -R build/* docs/
+        rm -R build/* 
 
     - name: Commit changes
       run: |
