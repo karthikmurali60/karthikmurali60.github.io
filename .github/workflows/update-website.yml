@@ -30,6 +30,7 @@ jobs:
         rm -rf docs
         mkdir docs
         cp -R build/* docs/
+        cp CNAME docs/
         rm -rf build/* 
 
     - name: Commit changes
