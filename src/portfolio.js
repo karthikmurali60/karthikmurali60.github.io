@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Karthik Muraliprasad",
   nickname: "",
   subTitle:
-    "An crazy person who constantly seeks opportunities to contribute to comprehensive projects that build sustainable and scalable technical systems, aiming to make a meaningful difference",
+    "An enthusiastic person who constantly seeks opportunities to contribute to comprehensive projects that build sustainable and scalable technical systems, aiming to make a meaningful difference",
   resumeLink:
     "https://drive.google.com/file/d/17oLGYdJxKWgwCezA9qFaZh6rHNxQmsq2/view?usp=sharing",
   portfolio_repository: "https://github.com/karthikmurali60/portfolio",
