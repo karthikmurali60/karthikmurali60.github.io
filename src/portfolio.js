@@ -26,7 +26,8 @@ const greeting = {
     "An enthusiastic person who constantly seeks opportunities to contribute to comprehensive projects that build sustainable and scalable technical systems, aiming to make a meaningful difference",
   resumeLink:
     "https://drive.google.com/file/d/17oLGYdJxKWgwCezA9qFaZh6rHNxQmsq2/view?usp=sharing",
-  portfolio_repository: "https://github.com/karthikmurali60/portfolio",
+  portfolio_repository:
+    "https://github.com/karthikmurali60/karthikmurali60.github.io",
   githubProfile: "https://github.com/karthikmurali60",
 };
 
@@ -386,9 +387,9 @@ const degrees = {
       alt_name: "PES University",
       duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Studied basic software engineering subjects like DS, Algorithms, DBMS, OS and CN",
+        "⚡ Apart from this, I have done courses on Machine Learning, Cloud Computing and Big Data",
+        "⚡ Recepient of the prestigious CNR Rao merit scholarship - given to the top 20% of academic performers",
       ],
       website_link: "http://pes.edu",
     },
@@ -399,9 +400,9 @@ const degrees = {
       alt_name: "University of California, Irvine",
       duration: "2022 - 2023",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Courses completed - Advanced Programming and Problem Solving, Machine Learning, Parallel and Distributed Computing, Big Data Management",
+        "⚡ Built a Universal Movie Search Engine as part of the Capstone Project",
+        "⚡ During my time at university, I was associated with Team Up - Rope Climbing course as a co-facilitator and the Graduate and Family Housing as a housing assistant",
       ],
       website_link: "https://www.uci.edu/",
     },
@@ -737,19 +738,17 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "profile_pic.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Hello! I appreciate your interest in my work and would love to hear from you. Whether you have a question, a collaboration opportunity, or simply want to connect, I'm here to listen and respond.You can contact me directly via email or connect with me on social media. I'm always excited to engage with fellow enthusiasts and creative minds. Thank you once again for your interest and for taking the time to visit my portfolio. I look forward to hearing from you soon!",
   },
   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+    title: "",
+    subtitle: "",
+    link: "",
+    avatar_image_path: "",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "74000 Verano Road APT C705, Irvine, California - 92617",
+    subtitle: "74000 Verano Road APT C705, Irvine, California - 92617",
     locality: "Irvine",
     country: "US",
     region: "California",
