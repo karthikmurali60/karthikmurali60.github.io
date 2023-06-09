@@ -9,11 +9,11 @@ import CloudInfraImg from "./CloudInfraImg";
 import DesignImg from "./DesignImg";
 
 function GetSkillSvg(props) {
-  if (props.fileName === "DataScienceImg")
-    return <DataScienceImg theme={props.theme} />;
-  else if (props.fileName === "FullStackImg")
-    return <FullStackImg theme={props.theme} />;
-  else if (props.fileName === "CloudInfraImg")
+  // if (props.fileName === "DataScienceImg")
+  //   return <DataScienceImg theme={props.theme} />;
+  // else if (props.fileName === "FullStackImg")
+  //   return <FullStackImg theme={props.theme} />;
+  if (props.fileName === "CloudInfraImg")
     return <CloudInfraImg theme={props.theme} />;
   return <DesignImg theme={props.theme} />;
 }
