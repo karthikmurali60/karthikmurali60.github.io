@@ -32,15 +32,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/karthikmurali60",
@@ -215,22 +206,22 @@ const skills = {
     //   ],
     // },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Development",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Experience working on AWS Cloud and Micorsoft Azure",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Deploying microservices which are serverless, scalable and fault tolerant on the cloud",
+        "⚡ Setting up streaming jobs from DB to Server or vice-versa on AWS",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
+        // {
+        //   skillName: "GCP",
+        //   fontAwesomeClassname: "simple-icons:googlecloud",
+        //   style: {
+        //     color: "#4285F4",
+        //   },
+        // },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -273,11 +264,53 @@ const skills = {
             color: "#1488C6",
           },
         },
+        // {
+        //   skillName: "Kubernetes",
+        //   fontAwesomeClassname: "simple-icons:kubernetes",
+        //   style: {
+        //     color: "#326CE5",
+        //   },
+        // },
         {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
+          skillName: "Elasticsearch",
+          fontAwesomeClassname: "logos:elasticsearch",
           style: {
-            color: "#326CE5",
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "DynamoDB",
+          fontAwesomeClassname: "devicon:dynamodb",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "Route53",
+          fontAwesomeClassname: "logos:aws-route53",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "Fargate",
+          fontAwesomeClassname: "logos:aws-fargate",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "AWS RDS",
+          fontAwesomeClassname: "logos:aws-rds",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "AWS S3",
+          fontAwesomeClassname: "logos:aws-s3",
+          style: {
+            color: "#1488C6",
           },
         },
       ],
@@ -335,46 +368,6 @@ const competitiveSites = {
       },
       profileLink: "https://leetcode.com/karthikmuraliprasad/",
     },
-    // {
-    //   siteName: "HackerRank",
-    //   iconifyClassname: "simple-icons:hackerrank",
-    //   style: {
-    //     color: "#2EC866",
-    //   },
-    //   profileLink: "https://www.hackerrank.com/layman_brother",
-    // },
-    // {
-    //   siteName: "Codechef",
-    //   iconifyClassname: "simple-icons:codechef",
-    //   style: {
-    //     color: "#5B4638",
-    //   },
-    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    // },
-    // {
-    //   siteName: "Codeforces",
-    //   iconifyClassname: "simple-icons:codeforces",
-    //   style: {
-    //     color: "#1F8ACB",
-    //   },
-    //   profileLink: "http://codeforces.com/profile/layman_brother",
-    // },
-    // {
-    //   siteName: "Hackerearth",
-    //   iconifyClassname: "simple-icons:hackerearth",
-    //   style: {
-    //     color: "#323754",
-    //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
-    // },
-    // {
-    //   siteName: "Kaggle",
-    //   iconifyClassname: "simple-icons:kaggle",
-    //   style: {
-    //     color: "#20BEFF",
-    //   },
-    //   profileLink: "https://www.kaggle.com/laymanbrother",
-    // },
   ],
 };
 
