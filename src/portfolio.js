@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "An enthusiastic person who constantly seeks opportunities to contribute to comprehensive projects that build sustainable and scalable technical systems, aiming to make a meaningful difference",
   resumeLink:
-    "https://drive.google.com/file/d/17oLGYdJxKWgwCezA9qFaZh6rHNxQmsq2/view?usp=sharing",
+    "https://drive.google.com/file/d/1CZASwY0ZLXE1rw0KV8_fhfBorEAsa76N/view?usp=sharing",
   portfolio_repository:
     "https://github.com/karthikmurali60/karthikmurali60.github.io",
   githubProfile: "https://github.com/karthikmurali60",
