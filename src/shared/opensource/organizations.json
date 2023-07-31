@@ -14,6 +14,16 @@
       "login": "mineiros-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55535240?v=4",
       "__typename": "Organization"
+    },
+    {
+      "login": "Codecademy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1463944?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "shadw-cloud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123511515?v=4",
+      "__typename": "Organization"
     }
   ]
 }

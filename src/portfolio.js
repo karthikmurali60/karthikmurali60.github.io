@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "An enthusiastic person who constantly seeks opportunities to contribute to comprehensive projects that build sustainable and scalable technical systems, aiming to make a meaningful difference",
   resumeLink:
-    "https://drive.google.com/file/d/1CZASwY0ZLXE1rw0KV8_fhfBorEAsa76N/view?usp=sharing",
+    "https://drive.google.com/file/d/1kENMmmMBB0RQpfazA4LXiPteDchOklBJ/view?usp=sharing",
   portfolio_repository:
     "https://github.com/karthikmurali60/karthikmurali60.github.io",
   githubProfile: "https://github.com/karthikmurali60",
@@ -547,6 +547,19 @@ const experience = {
     {
       title: "Internships",
       experiences: [
+        {
+          title: "Software Engineer Intern",
+          company: "DecOps",
+          company_url: "https://decops.xyz/",
+          logo_path: "decops.png",
+          duration: "June 2023 - September 2023",
+          location: "Irvine, California, USA",
+          descriptions: [
+            "⚡ Implemented an ECDSA based proving circuit using groth16 for Shadw - a peer to peer append-only log based ecosystem for serverless WebAssembly computing",
+            "⚡ Leveraged zero knowledge proofs and ZK-SNARKS to achieve secured communication and outsourced computation",
+          ],
+          color: "#000000",
+        },
         {
           title: "Software Engineer Intern",
           company: "Saltside Technologies Pvt Ltd.",

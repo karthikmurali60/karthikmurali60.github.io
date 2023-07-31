@@ -9,10 +9,6 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
           "name": "Python",
           "iconifyClass": "logos-python"
         },
@@ -31,6 +27,14 @@
         {
           "name": "Dockerfile",
           "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Ruby",
+          "iconifyClass": "logos:ruby"
         }
       ]
     },
@@ -75,28 +79,28 @@
       ]
     },
     {
-      "id": "R_kgDOI5mJuw",
-      "name": "Movie-provider-aggregator",
-      "createdAt": "2023-02-04T02:14:11Z",
-      "url": "https://github.com/adithbharadwaj/Movie-provider-aggregator",
-      "description": null,
+      "id": "R_kgDOKBOUYQ",
+      "name": "EverWrite",
+      "createdAt": "2023-07-29T21:08:55Z",
+      "url": "https://github.com/karthikmurali60/EverWrite",
+      "description": "🗅 EverWrite is a powerful and intuitive note-taking app designed to boost your productivity. Capture and organize your thoughts, ideas, and important information effortlessly.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
         },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
           "name": "CSS",

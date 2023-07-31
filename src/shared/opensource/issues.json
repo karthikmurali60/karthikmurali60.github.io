@@ -2,6 +2,26 @@
   "closed": 2,
   "data": [
     {
+      "id": "I_kwDOJ1bdcc5sCnGL",
+      "closed": false,
+      "title": "Key proof using ZK-SNARKs",
+      "createdAt": "2023-07-19T19:44:48Z",
+      "url": "https://github.com/shadw-cloud/shadw-cdk/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "shadw-cdk",
+        "url": "https://github.com/shadw-cloud/shadw-cdk",
+        "owner": {
+          "login": "shadw-cloud",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/123511515?v=4",
+          "url": "https://github.com/shadw-cloud"
+        }
+      }
+    },
+    {
       "id": "I_kwDOD_SE385mrxxY",
       "closed": false,
       "title": "Examples README labelling issue",
@@ -62,6 +82,6 @@
       }
     }
   ],
-  "open": 1,
-  "totalCount": 3
+  "open": 2,
+  "totalCount": 4
 }

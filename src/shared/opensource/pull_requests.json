@@ -1,6 +1,148 @@
 {
-  "closed": 5,
+  "closed": 6,
   "data": [
+    {
+      "id": "PR_kwDOFVDtPM5WvF1C",
+      "title": "Python - Add codebytes for math.ceil, pytorch and tqdm",
+      "url": "https://github.com/Codecademy/docs/pull/2896",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2023-07-30T16:12:19Z",
+      "number": 2896,
+      "changedFiles": 3,
+      "additions": 35,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "docs",
+        "url": "https://github.com/Codecademy/docs",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1463944?v=4",
+          "login": "Codecademy",
+          "url": "https://github.com/Codecademy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOI8sFCs5WW_je",
+      "title": "Update week2.md",
+      "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/14",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-07-25T17:39:02Z",
+      "number": 14,
+      "changedFiles": 1,
+      "additions": 184,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "aws-bootcamp-cruddur-2023",
+        "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+          "login": "karthikmurali60",
+          "url": "https://github.com/karthikmurali60"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOI8sFCs5WB9r2",
+      "title": "Cleanup",
+      "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
+      "createdAt": "2023-07-20T17:56:02Z",
+      "number": 13,
+      "changedFiles": 21,
+      "additions": 150,
+      "deletions": 18,
+      "baseRepository": {
+        "name": "aws-bootcamp-cruddur-2023",
+        "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+          "login": "karthikmurali60",
+          "url": "https://github.com/karthikmurali60"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOI8sFCs5VnVdR",
+      "title": "Week X tasks",
+      "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
+      "createdAt": "2023-07-16T20:40:27Z",
+      "number": 12,
+      "changedFiles": 90,
+      "additions": 1479,
+      "deletions": 767,
+      "baseRepository": {
+        "name": "aws-bootcamp-cruddur-2023",
+        "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+          "login": "karthikmurali60",
+          "url": "https://github.com/karthikmurali60"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOI8sFCs5VO5sX",
+      "title": "Week 10 tasks",
+      "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
+      "createdAt": "2023-07-11T18:10:58Z",
+      "number": 11,
+      "changedFiles": 40,
+      "additions": 1738,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "aws-bootcamp-cruddur-2023",
+        "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+          "login": "karthikmurali60",
+          "url": "https://github.com/karthikmurali60"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOI8sFCs5VOe0r",
+      "title": "Week 9 tasks",
+      "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
+      "createdAt": "2023-07-11T17:09:41Z",
+      "number": 10,
+      "changedFiles": 1,
+      "additions": 35,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "aws-bootcamp-cruddur-2023",
+        "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+          "login": "karthikmurali60",
+          "url": "https://github.com/karthikmurali60"
+        }
+      }
+    },
     {
       "id": "PR_kwDOCIsEO85Sdkul",
       "title": "Update text-summarization-inside-mysql-with-openai.mdx",
@@ -50,7 +192,7 @@
     {
       "id": "PR_kwDOI5mJu85Q7XtF",
       "title": "Add scripts send email",
-      "url": "https://github.com/adithbharadwaj/Movie-provider-aggregator/pull/3",
+      "url": "https://github.com/adithbharadwaj/Streamsearch/pull/3",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
@@ -63,8 +205,8 @@
       "additions": 412,
       "deletions": 10,
       "baseRepository": {
-        "name": "Movie-provider-aggregator",
-        "url": "https://github.com/adithbharadwaj/Movie-provider-aggregator",
+        "name": "Streamsearch",
+        "url": "https://github.com/adithbharadwaj/Streamsearch",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20615742?u=203c79d59a289ec4aa0761d2ce89938c22cbf342&v=4",
           "login": "adithbharadwaj",
@@ -76,13 +218,17 @@
       "id": "PR_kwDOI8sFCs5QHptg",
       "title": "Week 8 tasks",
       "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/9",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
       "createdAt": "2023-05-09T18:15:16Z",
       "number": 9,
-      "changedFiles": 34,
-      "additions": 674,
-      "deletions": 37,
+      "changedFiles": 68,
+      "additions": 1440,
+      "deletions": 100,
       "baseRepository": {
         "name": "aws-bootcamp-cruddur-2023",
         "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023",
@@ -97,8 +243,12 @@
       "id": "PR_kwDOI8sFCs5Ozfnn",
       "title": "Week 6-7 tasks",
       "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/8",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
       "createdAt": "2023-04-20T20:58:16Z",
       "number": 8,
       "changedFiles": 73,
@@ -168,8 +318,12 @@
       "id": "PR_kwDOI8sFCs5OQ03i",
       "title": "Week 5 tasks",
       "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/7",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
       "createdAt": "2023-04-13T19:26:56Z",
       "number": 7,
       "changedFiles": 45,
@@ -189,8 +343,12 @@
       "id": "PR_kwDOI8sFCs5NujkY",
       "title": "Week 4 tasks",
       "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/6",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
       "createdAt": "2023-04-06T03:09:52Z",
       "number": 6,
       "changedFiles": 23,
@@ -210,8 +368,12 @@
       "id": "PR_kwDOI8sFCs5NuDn9",
       "title": "Week3 tasks",
       "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/5",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
       "createdAt": "2023-04-05T23:36:17Z",
       "number": 5,
       "changedFiles": 22,
@@ -252,8 +414,12 @@
       "id": "PR_kwDOI8sFCs5NSwsQ",
       "title": "Week 2 tasks",
       "url": "https://github.com/karthikmurali60/aws-bootcamp-cruddur-2023/pull/3",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
+        "url": "https://github.com/karthikmurali60",
+        "login": "karthikmurali60"
+      },
       "createdAt": "2023-03-30T19:46:57Z",
       "number": 3,
       "changedFiles": 7,
@@ -272,7 +438,7 @@
     {
       "id": "PR_kwDOI5mJu85KoiE7",
       "title": "Add support for VPNs",
-      "url": "https://github.com/adithbharadwaj/Movie-provider-aggregator/pull/2",
+      "url": "https://github.com/adithbharadwaj/Streamsearch/pull/2",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/30801730?u=e1767a6450f03f072d5ce26f73a1f6002521f2e1&v=4",
@@ -285,8 +451,8 @@
       "additions": 29,
       "deletions": 2,
       "baseRepository": {
-        "name": "Movie-provider-aggregator",
-        "url": "https://github.com/adithbharadwaj/Movie-provider-aggregator",
+        "name": "Streamsearch",
+        "url": "https://github.com/adithbharadwaj/Streamsearch",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20615742?u=203c79d59a289ec4aa0761d2ce89938c22cbf342&v=4",
           "login": "adithbharadwaj",
@@ -571,7 +737,7 @@
       }
     }
   ],
-  "merged": 11,
-  "open": 9,
-  "totalCount": 25
+  "merged": 21,
+  "open": 4,
+  "totalCount": 31
 }
