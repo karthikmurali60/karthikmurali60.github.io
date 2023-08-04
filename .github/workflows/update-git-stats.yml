@@ -1,4 +1,4 @@
-name: Update GitHub stats on the website every 7 days
+name: Update GitHub stats on the website every 3 days
 
 on:
   schedule:
