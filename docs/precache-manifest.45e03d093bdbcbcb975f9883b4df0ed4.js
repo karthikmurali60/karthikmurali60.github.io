@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baf2cba86be801dabf8c4e20c1676ba8",
+    "revision": "4bf87c6cfd432b72446c23c972682373",
     "url": "/index.html"
   },
   {
-    "revision": "f6f8c8b4467fe9f553cb",
+    "revision": "f3197fbdf76b6e29de2d",
     "url": "/static/css/main.c3286bea.chunk.css"
   },
   {
-    "revision": "1aa1c1a4c008bbe91434",
-    "url": "/static/js/2.3f425519.chunk.js"
+    "revision": "78a8fe097890cab536bc",
+    "url": "/static/js/2.38199a4e.chunk.js"
   },
   {
-    "revision": "f6f8c8b4467fe9f553cb",
-    "url": "/static/js/main.80a223a9.chunk.js"
+    "revision": "f3197fbdf76b6e29de2d",
+    "url": "/static/js/main.d63f569d.chunk.js"
   },
   {
     "revision": "0e39c54165c1534edb2a",
@@ -266,6 +266,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/static/media/talksCardBackAlt.3fa54242.svg"
+  },
+  {
+    "revision": "a55c2982ba132b1498d666bd12313472",
+    "url": "/static/media/terraform.a55c2982.png"
   },
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
