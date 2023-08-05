@@ -405,6 +405,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "HashiCorp Certified Terraform Associate",
+      subtitle: "HashiCorp",
+      logo_path: "terraform.png",
+      certificate_link:
+        "https://www.credly.com/badges/ff97886c-aee9-42a8-b32e-5ca94a130000",
+      alt_name: "HashiCorp Terraform",
+      color_code: "#8C151599",
+    },
+    {
       title: "AWS Solutions Architect Associate",
       subtitle: "Amazon Web Services",
       logo_path: "saa.png",
