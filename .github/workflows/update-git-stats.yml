@@ -19,7 +19,9 @@ jobs:
           node-version: '20'
 
       - name: Execute node script
-        run: node git_data_fetcher.mjs
+        run: |
+          npm i
+          node git_data_fetcher.mjs
 
       - name: Commit and push changes
         run: |
