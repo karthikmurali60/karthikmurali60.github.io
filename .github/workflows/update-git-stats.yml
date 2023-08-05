@@ -19,3 +19,11 @@ jobs:
 
       - name: Execute node script
         run: node git_data_fetcher.mjs
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "karthikmurali60"
+          git config --global user.email "karthik.murali60@gmail.com"
+          git add .
+          git commit -m "Update git stats"
+          git push
