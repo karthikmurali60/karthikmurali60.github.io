@@ -3,6 +3,7 @@ name: Update GitHub stats on the website every 3 days
 on:
   schedule:
     - cron: "0 0 */3 * *"
+  workflow_dispatch:
 
 jobs:
   execute_script:
