@@ -23,6 +23,9 @@ jobs:
 
       - name: Execute node script
         run: node git_data_fetcher.mjs
+        env:
+          PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          PERSONAL_GITHUB_USERNAME: ${{ secrets.PERSONAL_GITHUB_USERNAME }}
 
       - name: Commit and push changes
         run: |
