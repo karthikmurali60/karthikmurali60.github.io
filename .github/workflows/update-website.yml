@@ -2,9 +2,11 @@ name: Node.js Build and Move
 permissions: write-all
 
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    workflows:
+      - "Update GitHub stats on the website every 3 days"
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
