@@ -29,8 +29,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "karthikmurali60"
-          git config --global user.email "karthik.murali60@gmail.com"
-          git add .
-          git commit -m "Update git stats"
-          git push
+          if ! git diff --quiet; then
+            git config --global user.name "karthikmurali60"
+            git config --global user.email "karthik.murali60@gmail.com"
+            git add .
+            git commit -m "Update git stats"
+            git push
+          fi
