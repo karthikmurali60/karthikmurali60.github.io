@@ -5,10 +5,10 @@
     "main.js.map": "/static/js/main.6cc9259e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.425df7fb.js",
     "runtime-main.js.map": "/static/js/runtime-main.425df7fb.js.map",
-    "static/js/2.85c0591b.chunk.js": "/static/js/2.85c0591b.chunk.js",
-    "static/js/2.85c0591b.chunk.js.map": "/static/js/2.85c0591b.chunk.js.map",
+    "static/js/2.96ab5026.chunk.js": "/static/js/2.96ab5026.chunk.js",
+    "static/js/2.96ab5026.chunk.js.map": "/static/js/2.96ab5026.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ac5a1b061e325f992f2c15a7dcfe0e64.js": "/precache-manifest.ac5a1b061e325f992f2c15a7dcfe0e64.js",
+    "precache-manifest.614c597e48de89eec87e8275b5ba934e.js": "/precache-manifest.614c597e48de89eec87e8275b5ba934e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0006bf27.chunk.css.map": "/static/css/main.0006bf27.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -59,7 +59,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.425df7fb.js",
-    "static/js/2.85c0591b.chunk.js",
+    "static/js/2.96ab5026.chunk.js",
     "static/css/main.0006bf27.chunk.css",
     "static/js/main.6cc9259e.chunk.js"
   ]
